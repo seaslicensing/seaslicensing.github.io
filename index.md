@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+FERPA/sensitive data statement, ie: 
 
-You can use the [editor on GitHub](https://github.com/seaslicensing/landing.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+"Penn is not responsible for any sensitive data you make public in your git repositories. Please be mindful of what you make public on the internet, ie do not include sensitive username/password information. I recognize that in using Penn's Github enterprise services, my data is public and currently not protected by FERPA."
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Authentication
+You can authenticate in any order:
+GitHub, then SSO
+SSO, then GitHub
 
-### Markdown
+Click on the single sign on link: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://github.com/orgs/upenn/sso
 
-```markdown
-Syntax highlighted code block
+OR
 
-# Header 1
-## Header 2
-### Header 3
+- go to your GitHub account, and add your @upenn.edu address
+- go to the GitHub SSO link
+- Sign in with your PennKey
+- welcome to the org!
+2FA
+Enforced in Penn WebLogin for most PennKeys
+Enforce for GitHub also? (Currently enabled, I vote we keep it)
+2FA can be used with multiple apps (Duo, Google Authenticator, etc.) if you scan the barcode with each one during configuration: “Tip: To configure authentication via TOTP on multiple devices, during setup, scan the QR code using each device at the same time. If 2FA is already enabled and you want to add another device, you must re-configure 2FA from your security settings.”
 
-- Bulleted
-- List
+FAQ
+#Instructions on how to leave Upenn org
+    -What happens if my Penn account goes away before I have removed myself?
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/seaslicensing/landing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
