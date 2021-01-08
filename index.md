@@ -1,8 +1,8 @@
-# University of Pennsylvania Enterprise GitHub
+### University of Pennsylvania Enterprise GitHub
 
 Penn is piloting a program to make GitHub Enterprise features available to the Penn Community.
 
-## University of Pennsylvania GitHub Organization
+#### University of Pennsylvania GitHub Organization
 
 Before accessing the UPenn organization on GitHub, you must have or create a GitHub account:
 
@@ -20,7 +20,7 @@ The first time you log into the UPenn organization via SSO, you will need to ass
 * HIPAA protected information
 * Secrets such as passwords or private keys
 
-## Why use Penn's Enterprise Github?
+#### Why use Penn's Enterprise Github?
 
 Benefits:
 
