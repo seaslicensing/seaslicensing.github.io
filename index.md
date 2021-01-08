@@ -31,4 +31,5 @@ Benefits:
 * [Security Vulnerability Alerts](https://docs.github.com/en/free-pro-team@latest/github/managing-security-vulnerabilities/about-alerts-for-vulnerable-dependencies) for vulnerable repos
 * Enterprise support for [GitHub Classroom](https://docs.github.com/en/free-pro-team@latest/education/manage-coursework-with-github-classroom/basics-of-setting-up-github-classroom) and integration with Canvas
 * External collaboration with nonmembers is supported
+* Continued access to code repostories is resilient to developer turnover
 
