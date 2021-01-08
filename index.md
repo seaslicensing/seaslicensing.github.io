@@ -1,4 +1,4 @@
-### University of Pennsylvania Enterprise GitHub
+### University of Pennsylvania GitHub Enterprise
 
 Penn is piloting a program to make GitHub Enterprise features available to the Penn Community.
 
