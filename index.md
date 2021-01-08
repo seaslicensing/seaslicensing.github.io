@@ -10,7 +10,7 @@ Before accessing the UPenn organization on GitHub, you must have or create a Git
 
 After logging into your GitHub account, access the UPenn organization dashboard via:
 
-* https://github.com/orgs/upenn/dashboard
+* [https://github.com/orgs/upenn/dashboard](https://github.com/orgs/upenn/dashboard)
 
 The first time you log into the UPenn organization via SSO, you will need to associate your PennKey login or email address with your GitHub account. You will also be required to enable [Two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/accessing-github-using-two-factor-authentication) on your GitHub account.
 
