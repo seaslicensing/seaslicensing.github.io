@@ -4,7 +4,7 @@ Penn is piloting a program to make GitHub Enterprise features available to the P
 
 #### University of Pennsylvania GitHub Organization
 
-Before accessing the UPenn organization on GitHub, you must have or create a GitHub account:
+You must have a GitHub account before you can become a member of the UPenn organization on GitHub. You can use an existing account or create a new GitHub account here:
 
 * [Join GitHub](https://github.com/join)
 
