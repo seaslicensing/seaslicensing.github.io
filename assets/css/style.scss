@@ -11,3 +11,11 @@
   background: -o-linear-gradient(top, #00144d, #00144d);
   background: linear-gradient(to top, #00144d, #00144d);
 }
+
+.site-title::before {
+content: url("/assets/logo.png");
+display: inline-block;
+position: relative;
+width: 200px;
+top: 5px;
+}
