@@ -4,7 +4,7 @@ Penn is piloting a program to make GitHub Enterprise features available to the P
 
 #### University of Pennsylvania GitHub Organization
 
-At this time, membership in the University of Pennsylvania GitHub Organization is by invitation only. More information will be published here as the process is developed.
+**At this time, membership in the University of Pennsylvania GitHub Organization is by invitation only. More information will be published here as the process is developed.**
 
 You must have a GitHub account before you can become a member of the UPenn organization on GitHub. You can use an existing account or create a new GitHub account here:
 
