@@ -12,10 +12,3 @@
   background: linear-gradient(to top, #00144d, #00144d);
 }
 
-#project_title::before {
-content: url("/assets/logo.png");
-display: inline-block;
-position: relative;
-width: 200px;
-top: 5px;
-}
