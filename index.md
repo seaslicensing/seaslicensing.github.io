@@ -4,17 +4,21 @@ Penn is piloting a program to make GitHub Enterprise features available to the P
 
 #### University of Pennsylvania GitHub Organization
 
-**At this time, membership in the University of Pennsylvania GitHub Organization is by invitation only. More information will be published here as the process is developed.**
-
-You must have a GitHub account before you can become a member of the UPenn organization on GitHub. You can use an existing account or create a new GitHub account here:
+You must have a GitHub account before you can become a member of the University of Pennsylvania (upenn) organization on GitHub. You can use an existing account or create a new GitHub account here:
 
 * [Join GitHub](https://github.com/join)
 
-After logging into your GitHub account, access the UPenn organization dashboard via:
+Note that your account belongs to you (and GitHub), so you can use any name that is still available in the GitHub account namespace. If you want to register an account dedicated to Penn-related work, consider using your PennKey username (or *<pennname>-upenn*, i.e. bfranklin-upenn) to simplify collaboration with other Penn users. Account names are not unique to the upenn organization, so do not assume that a GitHub account belongs to a Penn affiliate because it is the same as someone's PennName.
 
-* [https://github.com/orgs/upenn/dashboard](https://github.com/orgs/upenn/dashboard)
+All members of the upenn GitHub organization are required to have two-factor authentication enabled on their GitHub accounts. If you have not done so already, see these instructions:
 
-The first time you log into the UPenn organization via SSO, you will need to associate your PennKey login or email address with your GitHub account. You will also be required to enable [Two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/accessing-github-using-two-factor-authentication) on your GitHub account.
+* [Configuring two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/configuring-two-factor-authentication)
+
+After logging into your GitHub account (with two-factor authentication enabled), visit this URL to authenticate with your PennKey and automatically become a member of the upenn GitHub organization:
+
+* [https://github.com/orgs/upenn/sso/sign_up](https://github.com/orgs/upenn/sso/sign_up)
+
+The first time you log into the UPenn organization via SSO, you will need to associate your PennKey login or email address with your GitHub account. You will also be required to enable [Two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/accessing-github-using-two-factor-authentication) on your GitHub account, if you haven't done so already.
 
 **WARNING:** GitHub is *not* suitable for storing sensitive information, including:
 
