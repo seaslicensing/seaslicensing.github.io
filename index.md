@@ -8,7 +8,7 @@ You must have a GitHub account before you can become a member of the University 
 
 * [Join GitHub](https://github.com/join)
 
-Note that your account belongs to you (and GitHub), so you can use any name that is still available in the GitHub account namespace. If you want to register an account dedicated to Penn-related work, consider using your PennKey username (or *<pennname>-upenn*, i.e. bfranklin-upenn) to simplify collaboration with other Penn users. Account names are not unique to the upenn organization, so do not assume that a GitHub account belongs to a Penn affiliate because it is the same as someone's PennName.
+Note that your account belongs to you (and GitHub), so you can use any name that is still available in the GitHub account namespace. If you want to register an account dedicated to Penn-related work, consider using your PennKey username (yourpennname-upenn, i.e. bfrankln-upenn) to simplify collaboration with other Penn users. Account names are not unique to the upenn organization, so do not assume that a GitHub account belongs to a Penn affiliate because it is the same as someone's PennName.
 
 All members of the upenn GitHub organization are required to have two-factor authentication enabled on their GitHub accounts. If you have not done so already, see these instructions:
 
