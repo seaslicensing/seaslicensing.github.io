@@ -8,7 +8,7 @@ You must have a GitHub account before you can become a member of the University 
 
 * [Join GitHub](https://github.com/join)
 
-Note that your account belongs to you (and GitHub), so you can use any name that is still available in the GitHub account namespace. If you want to register an account dedicated to Penn-related work, consider using your PennKey username (yourpennname-upenn, i.e. bfrankln-upenn) to simplify collaboration with other Penn users. Account names are not unique to the upenn organization, so do not assume that a GitHub account belongs to a Penn affiliate because it is the same as someone's PennName.
+Note that your account belongs to you (and GitHub), so you can use any name that is still available in the GitHub account namespace. If you want to register an account dedicated to Penn-related work, consider using your PennKey username if it's available (or yourpennname-upenn, i.e. bfrankln-upenn) to simplify collaboration with other Penn users. Account names are not unique to the upenn organization, so do not assume that a GitHub account belongs to a Penn affiliate because it is the same as someone's PennName.
 
 All members of the upenn GitHub organization are required to have two-factor authentication enabled on their GitHub accounts. If you have not done so already, see these instructions:
 
@@ -18,13 +18,13 @@ After logging into your GitHub account (with two-factor authentication enabled),
 
 * [https://github.com/orgs/upenn/sso/sign_up](https://github.com/orgs/upenn/sso/sign_up)
 
-The first time you log into the UPenn organization via SSO, you will need to associate your PennKey login or email address with your GitHub account. You will also be required to enable [Two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/accessing-github-using-two-factor-authentication) on your GitHub account, if you haven't done so already.
+Note that you can associate your Penn WebLogin SSO identity with any of your GitHub accounts, but only one can be associated at a time. You will also be required to enable [Two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/accessing-github-using-two-factor-authentication) on your GitHub account, if you haven't done so already.
 
 **WARNING:** GitHub is *not* suitable for storing sensitive information, including:
 
 * Data subject to FERPA rules
 * HIPAA protected information
-* Secrets such as passwords or private keys
+* Unencrypted secrets such as passwords or private keys
 
 #### Why use Penn's Enterprise Github?
 
