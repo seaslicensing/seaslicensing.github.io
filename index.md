@@ -8,13 +8,13 @@ You must have a GitHub account before you can become a member of the University 
 
 * [Join GitHub](https://github.com/join)
 
-Note that your account belongs to you (and GitHub), so you can use any name that is still available in the GitHub account namespace. If you want to register an account dedicated to Penn-related work, consider using your PennKey username if it's available (or yourpennname-upenn, i.e. bfrankln-upenn) to simplify collaboration with other Penn users. Account names are not unique to the upenn organization, so do not assume that a GitHub account belongs to a Penn affiliate because it is the same as someone's PennName.
+You can use any available name for your GitHub account. If your PennKey username (PennName) is unavailable, consider using *yourpennname*-upenn (i.e. bfrankln-upenn). Since GitHub account names are not unique to the **upenn** organization, do not assume that a GitHub account belongs to a Penn affiliate because it is the same as someone's PennName.
 
-All members of the upenn GitHub organization are required to have two-factor authentication enabled on their GitHub accounts. If you have not done so already, see these instructions:
+All members of the **upenn** GitHub organization are required to have two-factor authentication enabled on their GitHub accounts. If you have not done so already, see these instructions:
 
 * [Configuring two-factor authentication](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/configuring-two-factor-authentication)
 
-After logging into your GitHub account (with two-factor authentication enabled), visit this URL to authenticate with your PennKey and automatically become a member of the upenn GitHub organization:
+After logging into your GitHub account (with two-factor authentication enabled), visit this URL to authenticate with your PennKey and automatically become a member of the **upenn** GitHub organization:
 
 * [https://github.com/orgs/upenn/sso/sign_up](https://github.com/orgs/upenn/sso/sign_up)
 
