@@ -1,6 +1,6 @@
-### University of Pennsylvania GitHub Enterprise
+### University of Pennsylvania GitHub Campus Program
 
-Penn is piloting a program to make GitHub Enterprise features available to the Penn Community.
+GitHub Campus Program makes GitHub Enterprise features available to the Penn Community.
 
 #### University of Pennsylvania GitHub Organization
 
@@ -26,7 +26,7 @@ Note that you can associate your Penn WebLogin SSO identity with any of your Git
 * HIPAA protected information
 * Unencrypted secrets such as passwords or private keys
 
-#### Why use Penn's Enterprise Github?
+#### Why use Penn's Github Campus Program?
 
 Benefits:
 
